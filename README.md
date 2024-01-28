@@ -9,9 +9,9 @@
 * Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning
 
 #### 🌱 Projects
-*
-*
+* [IMDb ETL Analysis](https://github.com/haydenlee914/IMDb-ETL-analysis)
 * [Hotel Cancellation Prediction](https://github.com/haydenlee914/hotel-booking-cancellation-prediction)
+* [Tableau](https://public.tableau.com/app/profile/yaeeun.lee/viz/TheUnitedStatesasaGlobalCampus/Dashboard1)
 
 #### 🔭 Education
 * Emory University, MS Business Analytics | 2023 - 2024
