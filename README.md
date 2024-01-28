@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, I'm Yaeeun Lee 👋
 
-<!--
-**haydenlee914/haydenlee914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ⚡ Business and Data Analyst
 
-Here are some ideas to get you started:
+#### 🔨 Stacks	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Languages: Python (Numpy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch) | SQL | R (ggplot2, dplyr)
+* Tools: Tableau | Git | AWS | NoSQL (Neo4j, MongoDB, Cassandra, HBase) | Hadoop (Sqoop, Spark, Hive, Pig)
+* Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning
+
+#### 🌱 Projects
+*
+*
+*
+
+#### 🔭 Education
+* Emory University, MS Business Analytics | 2023 - 2024
+* Konkuk University, BA Media and Communication | 2017 - 2023
+  
+#### 📫 Let's connect!
+* [LinkedIn](https://www.linkedin.com/in/haydenlee914/)
