@@ -11,7 +11,7 @@
 #### 🌱 Projects
 *
 *
-*
+* [Hotel Cancellation Prediction](https://github.com/haydenlee914/hotel-booking-cancellation-prediction)
 
 #### 🔭 Education
 * Emory University, MS Business Analytics | 2023 - 2024
