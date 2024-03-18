@@ -8,8 +8,9 @@
 * Tools: Tableau | Git | AWS | NoSQL (Neo4j, MongoDB, Cassandra, HBase) | Hadoop (Sqoop, Spark, Hive, Pig)
 * Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning
 
-#### 🌱 Projects
+#### 🌱 Projects & Competitions
 * [Retail Big Data Analysis](https://github.com/haydenlee914/retail-data-analysis)
+* [Travelers Competition](https://github.com/haydenlee914/Fraud-Detection-Competition)
 * [IMDb ETL Analysis](https://github.com/haydenlee914/IMDb-ETL-analysis)
 * [Tableau](https://public.tableau.com/app/profile/yaeeun.lee/viz/TheUnitedStatesasaGlobalCampus/Dashboard1)
 
