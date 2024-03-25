@@ -4,8 +4,8 @@
 
 #### 🔨 Stacks	
 
-* Languages: Python (Numpy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch) | SQL | R (ggplot2, dplyr)
-* Tools: Tableau | Git | AWS | NoSQL (Neo4j, MongoDB, Cassandra, HBase) | Hadoop (Sqoop, Spark, Hive, Pig)
+* Languages: Python | SQL | R 
+* Tools: Tableau | Git | AWS | NoSQL | Hadoop 
 * Techniques: Data Warehousing | Data Visualization | Predictive Modeling | Machine Learning
 
 #### 🌱 Projects & Competitions
